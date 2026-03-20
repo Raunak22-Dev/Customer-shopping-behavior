@@ -5,6 +5,11 @@
 This project analyzes customer shopping behavior using transactional data from **3,900 purchases** across multiple product categories. The objective is to uncover insights into customer segments, spending patterns, product preferences, and subscription behavior to support data-driven business decisions. 
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard Preview](./Customer_Behavior_Dashboard_image.png)
+
+---
 
 ## 📁 Dataset
 
@@ -119,13 +124,5 @@ This project demonstrates an end-to-end data analytics pipeline:
 
 * Data cleaning → SQL-based business analysis → Interactive dashboard
 * Highlights the ability to extract actionable insights and present them effectively for decision-making
-
----
-
-## 📌 Future Improvements
-
-* Implement predictive models (customer churn, segmentation)
-* Automate data pipeline
-* Deploy dashboard for real-time analytics
 
 ---
